@@ -1,0 +1,102 @@
+body {
+  font-family: "Inter Tight", "Arial", sans-serof;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.4;
+  letter-spacing: 0%;
+  background-color: #576f35;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*HEADER*/
+
+.header-logo {
+}
+.header-navigation {
+}
+.header-navigation-list {
+}
+.header-list-navigation {
+}
+.header-list-link {
+}
+.header-btn {
+}
+
+/*HERO SECTION*/
+
+.hero {
+}
+.hero-title {
+}
+.hero-text {
+}
+.hero-image {
+}
+
+/*HOW IT WORKS SECTION*/
+
+.howitworks {
+}
+.howitworks-image {
+}
+.howitworks-title {
+}
+.howitworks-text {
+}
+.howitworks-list {
+}
+.gowitworks-list-item {
+}
+
+/*ADVERTISEMENT SECTION*/
+
+.advertisement {
+}
+.advertisement-text {
+}
+
+/*VEGETABLES*/
+
+.Vegetables {
+}
+.Vegetables-title {
+}
+.vegetables-text {
+}
+.vegetable-list {
+}
+.vegetable-list-item {
+}
+.vegetables-list-title {
+}
+.vegetables-list-text {
+}
+.vegetables-list-image {
+}
+
+/*REVIEWS SECTION*/
+
+.reviews {
+}
+.reviews-title {
+}
+.reviews-text {
+}
+.reviews-list {
+}
+.reviews-list-item {
+}
+.reviews-list-title {
+}
+.reviews-list-text {
+}
+
+/*ORDER SECTION*/
